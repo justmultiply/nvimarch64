@@ -15,3 +15,4 @@ require("config.keybinding")
 -- setting clangformat gnu
 require("config.compileandrun")
 require("config.myterminal")
+require("config.comments")
